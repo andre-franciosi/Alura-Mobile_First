@@ -4,7 +4,7 @@ hr {
 
 .rodape{
     background-color: var(--branco);
-    margin: 0.6em;
+    padding: 0.6em;
 }
 
 .lista-rodape{
